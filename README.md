@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sandeep-nakka</h1>
-<h3 align="center">A passionate Software Development Engineer in Test (SDET) with a knack for ensuring software quality and reliability through comprehensive testing strategies. My mission is to contribute to the seamless integration of testing processes within the software development lifecycle.</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Nakka | 🚀 Automation Expert </h1>
+<h3 align="center">A passionate Software Development Engineer in Test (SDET) with a knack for ensuring software quality and reliability through comprehensive testing strategies. My mission is to contribute to the seamless integration of testing processes within the software development lifecycle.Streamlining workflows and optimizing processes through automation. Leveraging expertise in scripting, CI/CD pipelines, and infrastructure as code (IaC) to drive efficiency and reliability. </h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p align="middle"><a href="https://ibb.co/5kGyq58"><img src="https://i.ibb.co/m0bwQHq/Firefly-Banner-image-with-a-person-coding-in-his-workspace-with-brillant-colors-71198.jpg" align="middle" alt="Firefly-Banner-image-with-a-person-coding-in-his-workspace-with-brillant-colors-71198" border="0" width="500" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-nakka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-nakka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-nakka" alt="sandeep-nakka" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-nakka" alt="sandeep-nakka" /></a> </p>
 
 - 📫 How to reach me **n.sandeep05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-yadav-8a18937b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-yadav-8a18937b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-yadav-8a18937b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-yadav-8a18937b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-nakka&show_icons=true&locale=en&layout=compact" alt="sandeep-nakka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-nakka&show_icons=true&locale=en" alt="sandeep-nakka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-nakka&" alt="sandeep-nakka" /></p>
